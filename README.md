@@ -1,1 +1,2 @@
 # NFLDraft
+This project simulates drafting thirty two players into eight NFL teams. First, win percentages are randomly created for each team. Second, the teams are sorted in ascending order according to their win percentage. Third, rounds are randomly generated. Fourth, each player gets assigned a round (1 through 4) in which they will be drafted. Finally, each team selects 1 player for each of the 4 rounds and the results are displayed.
